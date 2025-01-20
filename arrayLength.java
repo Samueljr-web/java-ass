@@ -16,6 +16,6 @@ import java.util.Scanner;
         for (String element : arr) {
             System.out.println(element);
         }
-        Scanner.close();
+        
     }
   }

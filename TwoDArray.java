@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-public class flag {
+public class TwoDArray {
     public static void main(String[] args) {
      
             String[][] arr = new String[10][10];
